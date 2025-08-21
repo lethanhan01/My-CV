@@ -1,11 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1755766121.95886 "c:/Users/An/Documents/CV/cv1/LeThanhAn_CV.tex" "LeThanhAn_CV.pdf" "LeThanhAn_CV" 1755766123.4797 0
+["pdflatex"] 1755772663.15136 "c:/Users/An/Documents/CV/cv1/LeThanhAn_CV.tex" "LeThanhAn_CV.pdf" "LeThanhAn_CV" 1755772663.80102 0
   "C:/Users/An/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1754668790 88399 f936ea2310b8a859fc08b42797a086b8 ""
-  "C:/Users/An/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1755705000 11548 de8f7a9ff58170ff90aadded42f23702 ""
-  "C:/Users/An/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1755710617 12668 a0428eaceb23409580a9144dd3c4ed62 ""
   "C:/Users/An/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1754492162 13252860 c2f21db3a9521c1b6abf972590a6004d ""
-  "C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
-  "C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1095.tfm" 993062508 1460 8005ce585ff351dff78998923504da5e ""
   "C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmcsc10.tfm" 1136765053 1300 63a6111ee6274895728663cf4b4e7e81 ""
@@ -28,7 +24,7 @@
   "C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247596667 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
-  "C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
+  "C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
   "C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb" 1247596667 32587 65067f817f408bc71a7312f3d9828a9b ""
   "C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "C:/Users/An/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -83,10 +79,10 @@
   "C:/Users/An/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1749468414 7243 a2c17f18e2c9b702b84fad03d5f9c78b ""
   "C:/Users/An/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1749468414 7532 26d26e9d8f2ca784270d5da8ec7d102b ""
   "C:/Users/An/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "LeThanhAn_CV.aux" 1755766123 930 96ee94c2bd6a5b50a6a625455a89065a "pdflatex"
-  "LeThanhAn_CV.out" 1755766123 607 5b6af69acf6425db6dcb368bc542e568 "pdflatex"
-  "LeThanhAn_CV.tex" 1755766119 6589 529ec5006a05ba20f7819472c49e42ee ""
-  "c:/Users/An/Documents/CV/cv1/LeThanhAn_CV.tex" 1755766119 6589 529ec5006a05ba20f7819472c49e42ee ""
+  "LeThanhAn_CV.aux" 1755772663 929 0d8b679001c292400addc99365f657d7 "pdflatex"
+  "LeThanhAn_CV.out" 1755772663 599 6cbdbaca16ac9ad7d43dce807d047f40 "pdflatex"
+  "LeThanhAn_CV.tex" 1755772660 6603 479df25c4c9259621356d787b31c557e ""
+  "c:/Users/An/Documents/CV/cv1/LeThanhAn_CV.tex" 1755772660 6603 479df25c4c9259621356d787b31c557e ""
   (generated)
   "LeThanhAn_CV.aux"
   "LeThanhAn_CV.log"
