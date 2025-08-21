@@ -1,0 +1,196 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+\usepackage[utf8]{inputenc}
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+\begin{center}
+    \raggedright
+    \textbf{\Huge \scshape Le Thanh An}
+\end{center}
+
+\begin{center}
+  \raggedright
+  \item{Email: }\href{mailto:hungletai@gmail.com}{\underline{hungletai@gmail.com}} \hfill Phone: (+84)-865-797-312
+  \item{LinkedIn: }\href{https://www.linkedin.com/in/thanh-an-le-6024861b9}{\underline{linkedin.com/in/lethanhan}} \hfill Address: Hanoi, Vietnam
+  \item{Github: }\href{https://github.com/lethanhan01}{\underline{lethanhan01}}  
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Hanoi University of Science and Technology (HUST) }{Hanoi, Vietnam}
+      {Bachelor of Vietnam-Japan Information Technology Program (HEDSPI)}{Sept. 2023 -- Sept. 2027}
+      \resumeItem{CPA: 3.22}
+  \resumeSubHeadingListEnd
+  
+
+%-----------Extracurriculars-----------
+\section{Technical Skills }
+  \resumeItemListStart
+      \resumeItem{\textbf{Programming Languages:} C, C++, Java, Python, JavaScript }
+      \resumeItem{\textbf{Frameworks:} ReactJS, NodeJS, Express, PostgreSQL, Spring Boot}
+      \resumeItem{\textbf{Tools: }Git, MATLAB, \LaTeX \\}    
+  \resumeItemListEnd
+
+%-----------Courses-----------
+\section{Relevant Course}
+    \resumeSubHeadingListStart
+      \resumeSubheading
+      {Selected University Courses}{}
+      {}{}
+      \resumeItemListStart
+      \vspace{-4mm}
+        \resumeItem{ Data Structures \& Algorithms, Object-Oriented Programming, Database, Computer Architecture, Intro to Artificial Intelligence, Software Engineering.}
+      \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+%-----------Experience-----------
+\section{Projects}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Pradise Seeker - 2D RPG Game}{Mar. 2025 -- Jun. 2025}
+      {\href{https://github.com/lethanhan01/Paradise-Seeker.git}{github.com/lethanhan01/Paradise-Seeker.git}}{}
+      \resumeItemListStart
+        \resumeItem{Designed and developed a 2D RPG game using Java with libGDX frameworks, featuring player movement, NPC interactions, and map-based exploration.}
+        \resumeItem{Implemented combat mechanics, collision detection, and an inventory system.}
+        \resumeItem{Applied object-oriented design patterns to build modular and maintainable game architecture.}
+      \resumeItemListEnd
+      
+    \resumeSubheading
+      {Hotel Management System}{Apr. 2025 -- Jul. 2025}
+      {\href{https://github.com/lethanhan01/Hotel-Management-System.git}{github.com/lethanhan01/Hotel-Management-System.git}}{}
+      \resumeItemListStart
+          \resumeItem{Built a hotel management application that supports booking, billing, and customer management.}
+          \resumeItem{Designed and implemented room management, reservation, and invoice modules.}
+          \resumeItem{Created a normalized database schema and optimized SQL queries for efficiency.}
+          \resumeItemListEnd
+    \resumeSubheading
+      {E-Commerce Store}{Aug. 2025}
+      {\href{https://github.com/lethanhan01/E-Commerce-Store.git}{github.com/lethanhan01/E-Commerce-Store.git}}{}
+      \resumeItemListStart
+        \resumeItem{Built a full-stack e-commerce website with product catalog, shopping cart, and payment workflow.}
+        \resumeItem{Implemented authentication, product management, and order tracking modules.}
+        \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------Skill and Interests-----------
+\section{Languages}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+      \item{\textbf{Japanese}\\ JLPT N3 (Intermediate)}    \vspace{-2mm}
+      \item{\textbf{English}\\  Full professional proficiency}    \vspace{-2mm}
+      \item{\textbf{Vietnamese}\\  Native or Bilingual Proficiency}    \vspace{-2mm}
+
+ \end{itemize}
+
+%-----------Skill and Interests-----------
+\section{Activities}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{\textbf{Hackathon HUST 2023} 3rd place with AI chatbot project.}}
+ \end{itemize}
+    
+\end{document}
