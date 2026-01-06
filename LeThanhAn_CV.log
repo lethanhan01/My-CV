@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.6)  21 AUG 2025 17:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.6)  5 JAN 2026 11:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -305,7 +305,7 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 149.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 162.
+(Font)              <7> on input line 161.
 
 
 
@@ -325,20 +325,20 @@ L3 programming layer <2025-07-19>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `LeThanhAn_CV.out' has not changed.
-(rerunfilecheck)             Checksum: 6CBDBACA16AC9AD7D43DCE807D047F40;599.
+(rerunfilecheck)             Checksum: EE21CE25803335C205036B2DCA0DEF6F;506.
  ) 
 Here is how much of TeX's memory you used:
- 10894 strings out of 468149
- 173052 string characters out of 5432535
- 617620 words of memory out of 5000000
- 39370 multiletter control sequences out of 15000+600000
- 632417 words of font info for 62 fonts, out of 8000000 for 9000
+ 10891 strings out of 468149
+ 173017 string characters out of 5432535
+ 620620 words of memory out of 5000000
+ 39368 multiletter control sequences out of 15000+600000
+ 632109 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,300b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/An/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on LeThanhAn_CV.pdf (1 page, 110636 bytes).
+Output written on LeThanhAn_CV.pdf (1 page, 110992 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 77 PDF objects out of 1000 (max. 8388607)
+ 7 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
