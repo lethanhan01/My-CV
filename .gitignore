@@ -1,0 +1,19 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+
+# PDFs are usually build outputs; remove this line if you want to version PDFs
+*.pdf
+
+# Temporary/editor files
+*.tmp
+*.swp
+.DS_Store
