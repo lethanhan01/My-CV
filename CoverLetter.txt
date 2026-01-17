@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+My name is Le Thanh An, and I am currently a HEDSPI student at Hanoi University of Science and Technology, expected to graduate in 2027. I am writing to express my interest in the Full-stack / Backend Intern position at your company.
+
+I have a strong foundation in computer science, including data structures and algorithms, object-oriented programming, and database systems. Through hands-on projects, I have gained practical experience developing full-stack web applications using React, Tailwind CSS, Node.js, Express, RESTful APIs, and SQL databases.
+
+One of my key projects is a Citizen Management system, where I developed both front-end and back-end features to manage administrative data. I built responsive user interfaces with React, implemented RESTful APIs with Node.js and Express, and integrated role-based authentication and database operations using Sequelize and Supabase. This project helped me strengthen my understanding of full-stack development, system design, and collaborative problem-solving.
+
+In addition to web development, I have experience working with Java through projects such as a 2D RPG game built with libGDX, which enhanced my object-oriented programming skills and ability to design modular, maintainable systems. These experiences have trained me to approach problems methodically and write clean, well-structured code.
+
+I am highly motivated to learn, adaptable to new technologies, and eager to contribute to real-world software projects in a professional environment. I believe that my technical foundation, hands-on project experience, and strong willingness to grow would allow me to be a valuable intern at your company.
+
+Thank you for considering my application. I would welcome the opportunity to further discuss how my skills and interests align with your team’s needs.
+
+Sincerely,
+Le Thanh An
+GitHub: [https://github.com/lethanhan01](https://github.com/lethanhan01)
+Portfolio: [https://lethanhan01.github.io](https://lethanhan01.github.io)
