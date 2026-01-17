@@ -15,6 +15,7 @@
 \usepackage{verbatim}
 \usepackage{enumitem}
 \usepackage[hidelinks]{hyperref}
+\usepackage[normalem]{ulem}
 \usepackage{fancyhdr}
 \usepackage[english]{babel}
 \usepackage{tabularx}
@@ -99,6 +100,8 @@
 \newcommand{\resumeItemListStart}{\begin{itemize}}
 \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
 
+\newcommand{\ulhref}[2]{\href{#1}{\uline{#2}}}
+
 %-------------------------------------------
 %%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -111,11 +114,20 @@
 \end{center}
 
 \begin{center}
-  \raggedright
-  \item{Github: }\href{https://github.com/lethanhan01}{\underline{lethanhan01}} \hfill {Email: }\href{mailto:hungletai@gmail.com}{\underline{hungletai@gmail.com}}
-  \item{LinkedIn: }\href{https://www.linkedin.com/in/thanh-an-le-6024861b9}{\underline{linkedin.com/in/lethanhan}} \hfill Phone: (+84)-865-797-312
-  \item{Portfolio: }\href{https://lethanhan01-github-io.vercel.app/}{\underline{lethanhan01.github.io}} \hfill Address: Hanoi, Vietnam
+  \small
+  \begin{tabular*}{\textwidth}{@{}l@{\hspace{6pt}}l@{\extracolsep{\fill}}r@{}}
+    Github: & \ulhref{https://github.com/lethanhan01}{lethanhan01} & Email: \href{mailto:hungletai@gmail.com}{hungletai@gmail.com} \\
+    LinkedIn: & \ulhref{https://www.linkedin.com/in/thanh-an-le-6024861b9}{linkedin.com/in/lethanhan} & Phone: (+84)-865-797-312 \\
+    Portfolio: & \ulhref{https://lethanhan01-github-io.vercel.app/}{lethanhan01.github.io} & Address: Hanoi, Vietnam \\
+  \end{tabular*}
 \end{center}
+
+%-----------SUMMARY-----------
+\section{Summary}
+  \small{HEDSPI student at HUST (expected 2027) with a strong foundation in computer science and hands-on experience building full-stack web applications.
+Proficient in React, Tailwind CSS, Node.js/Express, RESTful APIs, and SQL databases.
+Seeking a Full-stack or Backend Internship to apply and further develop practical software engineering skills.
+  }
 
 %-----------EDUCATION-----------
 \section{Education}
@@ -123,7 +135,7 @@
     \resumeSubheading
       {Hanoi University of Science and Technology (HUST) }{Hanoi, Vietnam}
       {Bachelor of Vietnam-Japan Information Technology Program (HEDSPI)}{Sept. 2023 -- Sept. 2027}
-      \resumeItem{CPA: 3.22}
+      \resumeItem{CPA: 3.22/4.0 (as of June 2025)}
   \resumeSubHeadingListEnd
   
 
@@ -131,15 +143,16 @@
 \section{Technical Skills}
 \begin{itemize}[leftmargin=0.15in, label={}]
   \item{
-    \textbf{Programming Languages:} C, C++, Java, Python, JavaScript, TypeScript \\
-    \textbf{Frameworks:} ReactJS, NodeJS, Express, libGDX, Spring Boot \\
+    \textbf{Programming Languages:} JavaScript, TypeScript, Java, C/C++, Python \\
+    \textbf{Front-end:} HTML5, CSS3, React.js, Tailwind CSS \\
+    \textbf{Back-end:} Node.js, Express.js, libGDX, Spring Boot (basic) \\
     \textbf{Databases:} MySQL, MongoDB, PostgreSQL \\
-    \textbf{Tools:} Git, \LaTeX
+    \textbf{Tools:} Git, GitHub, \LaTeX \\
   }
 \end{itemize}
 
 %-----------Courses-----------
-\section{Relevant Course}
+\section{Relevant Coursework}
     \resumeSubHeadingListStart
       \resumeSubheading
       {Selected University Courses}{}
@@ -157,9 +170,10 @@
       {Citizen Management}{Oct. 2025 -- Dec. 2025}
       {\href{https://github.com/lethanhan01/Citizen-Management.git}{github.com/lethanhan01/Citizen-Management.git}}{\href{https://citizen-management.vercel.app/}{citizen-management.vercel.app}}
       \resumeItemListStart
-        \resumeItem{Full-stack citizen management platform streamlining household records, fees, temporary residence, and statistics for local administrations.}
-        \resumeItem{React (Vite) + Tailwind; Node.js/Express with Sequelize/Supabase; role-based access, search, and export.}
-        \resumeItem{Streamlines administrative workflows with secure authentication and improved data accuracy.}
+        \resumeItem{Developed a full-stack web application for managing household records and administrative data.}
+        \resumeItem{Built responsive front-end using React.js and Tailwind CSS.}
+        \resumeItem{Implemented RESTful APIs with Node.js and Express.js.}
+        \resumeItem{Integrated role-based authentication and database operations using Sequelize and Supabase.}
       \resumeItemListEnd  
 
     \resumeSubheading
